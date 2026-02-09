@@ -1,0 +1,2 @@
+Git add moves changes to staging.
+Git commit saves changes permenently.
